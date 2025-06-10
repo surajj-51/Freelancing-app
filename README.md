@@ -21,3 +21,9 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) freelancing platform whe
 
 ## 📂 Project Structure (Basic)
 
+
+## 🎥 Demo Video (Download/Play)
+
+👉 [Click here to view demo video]('./docs/freelancer application.mp4')
+
+
